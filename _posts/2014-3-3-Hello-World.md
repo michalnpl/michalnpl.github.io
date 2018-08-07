@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semmle: detecting local variables that should be constants.
+title: Semmle, detecting local variables that should be constants.
 ---
 
 How to detect local variables that should have been declared constants.
